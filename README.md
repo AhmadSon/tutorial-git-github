@@ -37,6 +37,6 @@
 ![Gambar 6](SS/Git_bash.jpg)<p>
 
 - Kemudian copy link HTTPS Github kalian<p>
-![Gambar 7](SS/Coding_1.jpg)<p>
+![Gambar 7](SS/Coding_1.PNG)<p>
 - lalu klik Enter<p>
-![Gambar 8](SS/Clone.jpg)<p>
+![Gambar 8](SS/Clone.PNG)<p>
