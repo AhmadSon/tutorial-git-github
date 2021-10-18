@@ -33,10 +33,10 @@
 ![Gambar 5](SS/GIT.jpg)<p>
 
 - setelah itu buat folder kosong untuk menyimpan file kerja kita<p>
-- lalu klik kanan pada Folder yang kita buat pilih <b>Git Bash Here</b>
-![Gambar 6](SS/Git_bash.png)<p>
+- lalu klik kanan pada Folder yang kita buat pilih <b>Git Bash Here</b><p>
+![Gambar 6](SS/Git_bash.jpg)<p>
 
 - Kemudian copy link HTTPS Github kalian<p>
-![Gambar 7](SS/Coding_1.png)<p>
+![Gambar 7](SS/Coding_1.jpg)<p>
 - lalu klik Enter<p>
-![Gambar 8](SS/Clone.png)<p>
+![Gambar 8](SS/Clone.jpg)<p>
