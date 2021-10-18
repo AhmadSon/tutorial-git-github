@@ -23,7 +23,7 @@
 - lalu klik repository, seperti gambar di bawah<p>
 ![Gambar 3](SS/Isi_nama_repository.jpg)<p>
 
-Setelah Muncul Seperti Gambar di Bawah<b>
+<b>Setelah Muncul Seperti Gambar di Bawah
 - Klik code, untuk link nya kalian bisa pakai HTTPS,SSH, atau Github CLI, lalu kalian copy link tersebut<p>
 ![Gambar 4](SS/Code.jpg)<p>
 
