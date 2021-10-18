@@ -1,7 +1,6 @@
-# tutorial-git-github
+# Latihan 1
 ## Cara Menggunakan Git pada Github
-### Bahan yang dibutuhkan
-
+### Bahan yang dibutuhkan 
 - [Github](https://github.com)<p>
 - [Git-scm](http://git-scm.com/)<p>
 - [Visual Studio Code](https://code.visualstudio.com)<p>
@@ -48,8 +47,8 @@
 - Setelah kalian selesai edit file <b>README.md</b> di <b>Visual Studio Code</b><p>
 - lalu save file dengan 'CTRL+S'<p>
 - Setelah itu buka Git Bash yang sebelumnya<p>
-![Gambar 11](SS/Coding_2.PNG)
+![Gambar 11](SS/Coding_2.PNG)<p>
 <b>Setelah di push dan terupload, Tampilan Github kalian akan langsung update oleh tulisan yang kalian buat di file README.md</b><p>
 
-###Selesai
-##Terima Kasih
+### Selesai
+## Terima Kasih
