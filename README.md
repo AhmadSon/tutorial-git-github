@@ -27,3 +27,14 @@
 - Klik code, untuk link nya kalian bisa pakai HTTPS,SSH, atau Github CLI, lalu kalian copy link tersebut<p>
 ![Gambar 4](SS/Code.jpg)<p>
 
+<b>Jika kalian belum memiliki</b> [git-scm](http://git-scm.com/), <b>kalian bisa download dan install terlebih dahulu</b><p>
+- klik <b>Download for Windows</b><p>
+- lalu install seperti biasa, next saja<p>
+![Gambar 5](SS/GIT.png)<p>
+
+- setelah itu buat folder kosong untuk menyimpan file kerja kita<p>
+- lalu klik kanan pada Folder yang kita buat pilih <b>Git Bash Here</b>
+![Gambar 6](SS/Git_bash.png)
+
+- Kemudian copy link HTTPS Github kalian
+> git clone 'link github'
