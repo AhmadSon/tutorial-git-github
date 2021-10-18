@@ -3,20 +3,21 @@
 ### Bahan yang dibutuhkan
 
 - [Github](https://github.com)<p>
-•	Git-scm
-•	Visual Studio Code
+- [Git-scm](http://git-scm.com/)<p>
+- [Visual Studio Code](https://code.visualstudio.com)<p>
 
 #### Membuat Github
 
-Pertama buka situs Github
+Pertama buka situs [Github](https://github.com)<p>
 - pilih Sign up, jika belum memiliki akun<p>
 - pilih Sign in, jika sudah memiliki akun<p>
-(Gambar 1)(SS/login.png)
+![Gambar 1](SS/login.png)
 
-Setelah login nanti akan muncul seperti gambar di bawah
-Lalu Klik Creat Repository
-(gambar 2)(SS/Buat repository.png)
+Setelah login nanti akan muncul seperti gambar di bawah<p>
+- Lalu Klik Creat Repository<p>
+![Gambar 2](SS/Buat_repository.png)
 
-Buat Repository name sesuai kalian
-Deskripsi boleh kosong
-pilih sesuai gambar di bawah, lalu klik repository
+Setelah itu kalian akan di minta untuk membuat nama Repository kalian<p>
+- Deskripsi boleh kosong<p>
+- pilih sesuai gambar di bawah, lalu klik repository<p>
+![Gambar 3](SS/Isi_nama_repository.png)
