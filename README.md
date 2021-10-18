@@ -45,3 +45,11 @@
 - kalian bisa mengedit file README.md dengan [Visual Studio Code](https://code.visualstudio.com)<p>
 <b>Setelah kalian buka file README.md dengan Visual Studio code kalian bisa mengeditnya sesuka kalian tampilan nya akan seperti gambar di bawah ini</b><p>
 ![Gambar 10](SS/VCS.png)<p>
+- Setelah kalian selesai edit file <b>README.md</b> di <b>Visual Studio Code</b><p>
+- lalu save file dengan 'CTRL+S'<p>
+- Setelah itu buka Git Bash yang sebelumnya<p>
+![Gambar 11](SS/Coding_2.PNG)
+<b>Setelah di push dan terupload, Tampilan Github kalian akan langsung update oleh tulisan yang kalian buat di file README.md</b><p>
+
+###Selesai
+##Terima Kasih
