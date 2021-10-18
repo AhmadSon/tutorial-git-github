@@ -40,3 +40,8 @@
 ![Gambar 7](SS/Coding_1.PNG)<p>
 - lalu klik Enter<p>
 ![Gambar 8](SS/Clone.PNG)<p>
+- Lalu muncul file README.md di folder kalian<p>
+![Gambar 9](SS/Readme.png)<p>
+- kalian bisa mengedit file README.md dengan [Visual Studio Code](https://code.visualstudio.com)<p>
+<b>Setelah kalian buka file README.md dengan Visual Studio code kalian bisa mengeditnya sesuka kalian tampilan nya akan seperti gambar di bawah ini</b><p>
+![Gambar 10](SS/VCS.png)<p>
