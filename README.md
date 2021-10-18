@@ -19,5 +19,11 @@
 
 #### Setelah itu kalian akan di minta untuk membuat nama Repository kalian<p>
 - Deskripsi boleh kosong<p>
-- pilih sesuai gambar di bawah, lalu klik repository<p>
+- Ceklis Add a README file<p>
+- lalu klik repository, seperti gambar di bawah<p>
 ![Gambar 3](SS/Isi_nama_repository.jpg)<p>
+
+<b>Setelah Muncul Seperti Gambar di Bawah<b>
+- Klik code, untuk link nya kalian bisa pakai HTTPS,SSH, atau Github CLI, lalu kalian copy link tersebut<p>
+![Gambar 4](SS/Code.jpg)<p>
+
